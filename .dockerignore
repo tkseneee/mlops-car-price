@@ -1,0 +1,33 @@
+# Python cache / temp
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environments
+venv/
+.venv/
+env/
+.env/
+
+# Jupyter notebooks
+*.ipynb
+.ipynb_checkpoints/
+
+# OS / editor junk
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Git
+.git
+.gitignore
+
+# Logs
+*.log
+
+# (Optional) local data / archives
+# Comment these out if you want to ship CSVs inside the image
+# *.csv
+# *.zip
